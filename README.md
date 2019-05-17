@@ -9,5 +9,5 @@ php bin/magento setup:upgrade
 php bin/magento cache:flush
 php bin/magento indexer:reindex
 
-# 3.  Sign into admin and check out the add new product page to see the attribues.
+# 3.  Sign into admin and check out the add new product page to see the attributes.
 
